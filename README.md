@@ -1,2 +1,3 @@
 # BrainStructures_Personality
- Using phyiscal characterisitcs of brain structures to predict personality types
+ Using Using physical characteristics of brain structures to predict personality types  of brain structures to predict personality types
+
